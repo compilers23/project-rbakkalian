@@ -12,3 +12,5 @@
 * All the arithmetic Operation
 * Print top of the stack
 * `negate`, `swap`
+
+Project is done by Yeghia Avedikian and Rita Bakkalian
