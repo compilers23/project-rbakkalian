@@ -14,3 +14,5 @@
 * `negate`, `swap`
 
 Project is done by Yeghia Avedikian and Rita Bakkalian
+
+To run the file ./testFile
